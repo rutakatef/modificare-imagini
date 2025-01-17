@@ -1,0 +1,3 @@
+C:/Users/ivvla/Desktop/modificare imagine/cmake-build-debug/CMakeFiles/na_folder.dir
+C:/Users/ivvla/Desktop/modificare imagine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ivvla/Desktop/modificare imagine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
